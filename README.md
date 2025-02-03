@@ -1,4 +1,4 @@
-### selfdriven Support
+### selfdriven Community Support
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-support)
