@@ -2,7 +2,7 @@
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-support)
-- [selfdriven.education](https://selfdriven.education)
+- [selfdriven.education](https://selfdriven.education) - guides etc
 - [selfdriven.services](https://selfdriven.services)
 
 ### Contact Us
