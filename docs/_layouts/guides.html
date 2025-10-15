@@ -7,7 +7,7 @@ layout: null
 
 <head>
 	<meta charset="UTF-8" />
-	<title>selfdriven Support</title>
+	<title>{% if page.title %}{{ page.title }} | {{ site.title | default: "selfdriven Support" }}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="shortcut icon" href="/assets/img/selfdriven-logo-round-blackcurrant-cararra.png">
 	<link rel="apple-touch-icon" href="/assets/img/selfdriven-logo-round-blackcurrant-cararra.png" />
